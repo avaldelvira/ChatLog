@@ -1,0 +1,42 @@
+exports[`ChatItem Component ChatItem with avatar Matches the snapshot 1`] = `
+<li
+  className="sc-bxivhb kUeqyn"
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}>
+  <img
+    alt="Aaron Williams Avatar"
+    className="sc-bdVaJa kAZrIL"
+    src="http://dummyimage.com/100x100.jpg/dddddd/000000"
+    title="awilliams8@indiegogo.com" />
+  <div>
+    <div
+      className="sc-bwzfXH JoQuo">
+      Aaron Williams
+       - 
+      2/26/2016, 11:05 AM
+    </div>
+    <div>
+      Quisque ut erat. Curabitur gravida nisi at nibh.
+    </div>
+  </div>
+</li>
+`;
+
+exports[`ChatItem Component ChatItem without avatar Matches the snapshot 1`] = `
+<li
+  className="sc-bxivhb kUeqyn"
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}>
+  <div>
+    <div
+      className="sc-bwzfXH JoQuo">
+      Amanda Baker
+       - 
+      2/24/2016, 1:01 AM
+    </div>
+    <div>
+      Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.
+    </div>
+  </div>
+</li>
+`;
